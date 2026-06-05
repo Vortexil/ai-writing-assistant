@@ -1,3 +1,0 @@
-# Streamlit Cloud 系统依赖
-# 本项目纯Python，无额外系统依赖
-# 如需添加：每行一个包名
